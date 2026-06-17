@@ -1,0 +1,8 @@
+jax>=0.4.13
+jaxlib>=0.4.13
+numpy>=1.21.0
+matplotlib>=3.4.0
+optax>=0.1.7
+tensorflow-probability>=0.20.0
+pyDOE>=0.3.8
+scipy>=1.7.0 

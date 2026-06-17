@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.env
+
+# Generated outputs
+*.png
+*.jpg
+*.pdf
+*.mat
+output*/
+ODE2d.zip
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
